@@ -87,7 +87,7 @@ nav{
 
 .banner{
     background-color: #333;
-    background-image: url('../Assets/Images/icones/bg.jpg');
+    background-image: url('https://anadasilva87.github.io/ProjetoAwax/Assets/Images/icones/bg.jpg');
     background-size: cover;
     background-position: bottom;
     height: calc(100vh - 100px);
@@ -379,7 +379,7 @@ nav{
 }
 
 .bg--team{
-    background-image: url(../Assets/Images/icones/bg.jpg);
+    background-image: url(https://anadasilva87.github.io/ProjetoAwax/Assets/Images/icones/bg.jpg);
     background-size: cover;
     background-position: center;
     padding: 0;
@@ -557,7 +557,7 @@ nav{
 }
 
 .section-map{
-    background-image: url(../Assets/Midia/complementos/mapa.jpg);
+    background-image: url(https://anadasilva87.github.io/ProjetoAwax/Assets/Midia/complementos/mapa.jpg);
     background-size: cover;
     background-position: center;
     padding-top: 30px;
