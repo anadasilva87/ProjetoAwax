@@ -8,3 +8,6 @@ No decorrer do exercício, foram utilizados:
 * HTML semântico;
 * CSS flexbox;
 * Responsividade.
+
+
+### Você pode acessar a pagina [AQUI](https://anadasilva87.github.io/ProjetoAwax/)
